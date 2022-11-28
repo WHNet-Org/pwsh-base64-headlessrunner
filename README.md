@@ -5,9 +5,7 @@ WARNING: Still a work in progress !!!
 Allows you to execute a base64 converted PowerShell script.
 
 ### Features
-- Updates on an FQDN basis
-- Configurable timer (sleep) between updates
-- Doesn't update if the the IP haven't changed to prevent audit logs spam
+- Makes it easy to quickly execute snippets of code
 - Very lightweight
 - Docker compatible, using Alpine Linux !
 
